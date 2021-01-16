@@ -4,7 +4,7 @@
       String s="acaa";
 		
 		char[]ch=s.toCharArray();
-		int   vowel=0;
+		int                    vowel=0;
 		int constatnt=0;
 		
 		for(int i=0;i<ch.length;i++)
